@@ -1,10 +1,93 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
-
 h1 {
+  display: flex;
+  justify-content: center;
   font-family: fantasy;
 }
 
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.size {
+  color: black;
+}
+
+.font1 {
+  font-family: fantasy;
+  font-size: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: ;
+}
+
+.font2 {
+  font-family: fantasy;
+  display: flex;
+  justify-content: center;
+}
+
 a:link {
+  color: black;
+}
+
+.Schriftgröße {
+  font-size: 20px;
+}
+
+.image {
+  border-radius: 40px;
+  box-shadow: 10px 5px 5px grey;
+  margin-right: 20px;
+}
+
+.contact {
+  font-family: fantasy;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.social1 {
+  display: flex;
+  justify-content: center;
+}
+
+.link1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.link2 {
+  display: flex;
+  justify-content: center;
+}
+
+.social2 {
+  display: flex;
+  justify-content: center;
+}
+
+.bigbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box1 {
+}
+
+.facts {
+  font-size: 20px;
+}
+
+.box2 {
+  font-family: fantasy;
+  padding-left: 100px;
+}
+
+a:visited {
   color: black;
 }
 
@@ -12,27 +95,6 @@ a:hover {
   color: red;
 }
 
-.Schriftgröße {
-  font-size: 20px;
-  background-color: hotpink;
-}
-
-.myself {
-  box-sizing: border-box;
-  margin: auto;
-  padding: 10px;
-  border-radius: 20px;
-  box-shadow: 0 0 2em lightblue;
-}
-
-.box {
-  border-radius: 20px;
-  box-shadow: 0 0 1em lightblue;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.socials {
-  border: 2px solid;
-  padding: 20px;
+a {
+  text-decoration: none;
 }
