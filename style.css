@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+h1 {
+  font-family: fantasy;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+.Schriftgröße {
+  font-size: 20px;
+}
+
+.myself {
+  box-sizing: border-box;
+  margin: auto;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 0 0 2em lightblue;
+}
+
+.box {
+  border-radius: 20px;
+  box-shadow: 0 0 1em lightblue;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.socials {
+  border: 2px solid;
+  padding: 20px;
+}
